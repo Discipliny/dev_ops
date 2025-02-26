@@ -1,6 +1,6 @@
 # DevOps Labs
 
-[Журнал](https://docs.google.com/spreadsheets/d/1p9OSVdezvMUroR5zv0M6y23PW7kJGWHttDhhbwIJXNI/)
+[Журнал](https://docs.google.com/spreadsheets/d/19ClmK5Sxn-TAOMrRw356Xb5xBzwsKvMsavIu7vPpCQY/)
 
 Лекции
 1. [Введение в DevOps](./lection/Introduction%20in%20DevOps.pdf)
